@@ -1,5 +1,5 @@
 {
-  "name": "text-to-speech",
+  "name": "speak-select",
   "author": "hileix",
   "scripts": {
     "build": "node build.mjs",
